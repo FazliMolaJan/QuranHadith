@@ -1,0 +1,34 @@
+---
+name: quran_hadith
+description: Qur'an & Hadith
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.3
+  http: ^0.12.2
+  intl: null
+  font_awesome_flutter: null
+  bubble_tab_indicator: null
+  material_design_icons_flutter: ^4.0.5345
+  glutton: ^1.0.5
+  shimmer: ^1.1.2
+  shared_preferences: ^0.5.12+4
+  linkify: null
+  auto_size_text: null
+  url_launcher: null
+  lottie: null
+  focused_menu: ^1.0.1
+  popup_menu:
+  universal_platform:
+  after_layout:
+  provider:
+  get:
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
